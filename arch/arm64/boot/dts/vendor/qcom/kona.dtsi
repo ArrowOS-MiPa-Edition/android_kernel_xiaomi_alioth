@@ -2437,7 +2437,7 @@
 		qcom,mdm2ap-status-gpio   = <&tlmm 3 0x00>;
 		qcom,ap2mdm-status-gpio   = <&tlmm 56 0x00>;
 		qcom,mdm-link-info = "0306_02.01.00";
-		status = "disabled";
+		status = "ok";
 	};
 
 	pdc: interrupt-controller@b220000 {
